@@ -1,2 +1,2 @@
 # study
-review
+review the basic algorithm and data structure
